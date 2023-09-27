@@ -1,0 +1,4 @@
+module federation install command
+
+
+npm install --save mf-cra
